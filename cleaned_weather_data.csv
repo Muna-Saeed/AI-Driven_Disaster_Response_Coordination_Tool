@@ -1,0 +1,5 @@
+City,Temperature (°C),Humidity (%),Wind Speed (m/s),Weather,Rainfall (mm),Timestamp,Disaster Severity,Disaster Type
+Los Angeles,12.7,57,0.0,clear sky,0.0,2025-02-16 12:26:34,Low,Normal
+San Francisco,8.33,86,2.06,scattered clouds,0.0,2025-02-16 12:27:14,Low,Normal
+New York,1.79,94,6.17,light rain,0.18,2025-02-16 12:15:00,Low,Normal
+London,4.33,72,7.72,broken clouds,0.0,2025-02-16 12:14:07,Low,Normal
